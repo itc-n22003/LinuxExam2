@@ -61,3 +61,6 @@ Network Card(s):           2 NIC(s) Installed.
                                  [01]: 192.168.56.102
                                  [02]: fe80::cb0f:31c6:fb4:410a
 Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
+この行はKaliで追加しました
+Linux lazy-admin 6.5.0-kali3-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.5.6-1kali1 (2023-10-09) x86_64 GNU/Linux
